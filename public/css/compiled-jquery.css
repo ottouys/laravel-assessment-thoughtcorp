@@ -1,0 +1,9 @@
+/*
+ * Jquery Component CSS
+*/
+
+/* Menu */
+@import url("../plugins/menu/jquery.mmenu.all.css");
+
+/* Fancybox */
+@import url("../plugins/fancybox/jquery.fancybox.min.css");
